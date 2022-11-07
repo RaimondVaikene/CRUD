@@ -1,0 +1,68 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+
+}
+.add-form {
+margin-bottom: 2em;
+margin-top: 2em;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+input {
+  border: 2.5px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #b2b2b2;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(5, 14, 137);
+}
+
+thead {
+  color: rgb(255, 255, 255);
+
+}
+td {
+  background-color: rgb(255, 255, 255);
+}
+
+button {
+margin: 2px;
+  color: white;
+background-color: rgb(38, 38, 159);
+cursor: pointer;
+padding: 5px;
+}
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form td:last-child {
+ 
+  justify-content: space-around;
+}
+
+form * {
+  font-size: 28px;
+}
