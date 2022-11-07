@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FeAssessment/static/css/main.b91a37c4.css",
+    "main.js": "/FeAssessment/static/js/main.75e9570a.js",
+    "index.html": "/FeAssessment/index.html",
+    "main.b91a37c4.css.map": "/FeAssessment/static/css/main.b91a37c4.css.map",
+    "main.75e9570a.js.map": "/FeAssessment/static/js/main.75e9570a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91a37c4.css",
+    "static/js/main.75e9570a.js"
+  ]
+}
